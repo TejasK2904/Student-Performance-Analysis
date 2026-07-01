@@ -4,7 +4,7 @@
 
 This project analyzes student academic performance using **SQL, Microsoft Excel, and Power BI**. The goal is to transform raw student data into meaningful insights through data cleaning, SQL analysis, KPI tracking, and interactive dashboards.
 
-The dashboard helps visualize student performance, subject-wise results, and overall academic outcomes, enabling data-driven decision-making.
+The dashboard helps visualize student performance, attendance trends, subject-wise results, and overall academic outcomes, enabling data-driven decision-making.
 
 ---
 
@@ -71,6 +71,9 @@ The project includes SQL queries for:
 ```text
 Student-Performance-Analysis
 │
+├── data/
+│   └── README.md
+│
 ├── sql/
 │   ├── database.sql
 │   └── analysis_queries.sql
@@ -88,11 +91,12 @@ Student-Performance-Analysis
 
 ## 📂 Dataset
 
-The original dataset used in this project is **not included** in this repository due to its large size.
+The original dataset used in this project is included but its large size.
 
 The repository focuses on demonstrating the SQL queries, Power BI dashboard, and overall data analysis workflow.
 
 ---
+
 
 ## 👨‍💻 Author
 
@@ -113,3 +117,5 @@ The repository focuses on demonstrating the SQL queries, Power BI dashboard, and
 * Business Intelligence
 
 ---
+
+⭐ If you found this project useful, consider giving it a **Star**.
