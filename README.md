@@ -118,4 +118,4 @@ The repository focuses on demonstrating the SQL queries, Power BI dashboard, and
 
 ---
 
-⭐ If you found this project useful, consider giving it a **Star**.
+
